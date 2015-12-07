@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Look Ahead Location</string>
+    <string name="to_wifi_provider">to wifi and mob locator</string>
+     <string name="to_gps_provider">to gps locator</string>
+     <string name="WiFi_mobile">"WiFi or mobile locating now..."</string>
+        <string name="gps_locating">GPS Locating now....</string>
+    <string name="voice_recognition_prompt"></string>
+
+        <string name="message">Staff / Work Rotas</string>
+    <string name="Collmessage">Friends Plan</string>
+    <string name="back">exit</string>
+    <string name="dialog_based_preferences"> </string>
+    <string name="title_edittext_preference">Add email</string>
+    <string name="summary_edittext_preference"> </string>
+    <string name="dialog_title_edittext_preference">Add email</string>
+
+    <string name="sms1_preference">Add SMS</string>
+    <string name="sms2_preference">Add SMS phone number</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<menu  
+  xmlns:android="http://schemas.android.com/apk/res/android">  
+<item android:title="sms your location" android:id="@+id/sms"></item> 
+<item android:title="add sms / email" android:id="@+id/preferences"></item>  
+<item android:title="exit" android:id="@+id/exit"></item> 
+<item android:title="email your location" android:id="@+id/email"></item> 
+<item android:title="refresh" android:id="@+id/refresh"></item> 
+</menu>

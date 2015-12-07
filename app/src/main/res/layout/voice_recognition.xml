@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="4dip"
+        android:text="@string/voice_recognition_prompt" />
+        
+    <Button android:id="@+id/btn_speak"
+        android:layout_width="200dip"
+        android:textSize="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="40dip"
+        android:layout_height="50dip"
+        android:text="speech recogniser" />
+      <TextView android:text=" " android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+      <TextView android:text=" " android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+      <TextView android:text=" " android:id="@+id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+      <Button android:id="@+id/back_to_speaker"
+        android:layout_width="200dip"
+        android:textSize="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="40dip"
+        android:layout_height="50dip"
+        android:text="back to speaker" />      
+        
+    <ListView android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="80dip"
+        android:layout_weight="1" />
+
+ 
+
+
+</LinearLayout>

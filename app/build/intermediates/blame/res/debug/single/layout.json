@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/build/intermediates/res/merged/debug/layout/mainlocatorcoarse.xml",
+        "source": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/src/main/res/layout/mainlocatorcoarse.xml"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/build/intermediates/res/merged/debug/layout/voice_recognition.xml",
+        "source": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/src/main/res/layout/voice_recognition.xml"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/build/intermediates/res/merged/debug/layout/text_to_speech.xml",
+        "source": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/src/main/res/layout/text_to_speech.xml"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/build/intermediates/res/merged/debug/layout/toast_layout.xml",
+        "source": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/src/main/res/layout/toast_layout.xml"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/build/intermediates/res/merged/debug/layout/mainlocator.xml",
+        "source": "/Users/Will/AndroidStudioProjects/LookAhead_LocatorPubbed/app/src/main/res/layout/mainlocator.xml"
+    }
+]
